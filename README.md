@@ -8,3 +8,8 @@ jolloin on arvattava, mikä syöte on virheellisessä muodossa tai painettava
 "Peru".
 
 Sovellusta on ihan hivenen muutettu alkuperäisestä.
+
+GUI.java on luokka, joka käynnistää sovelluksen.
+
+Linkki YouTube demonstraatiovideoon: https://youtu.be/ZVkMIw5ejy0
+
